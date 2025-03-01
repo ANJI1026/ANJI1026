@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **ANJI1026/ANJI1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm passionate about the intersection of technology and environmental sustainability.
 -->
-<h2 align="left">Hi 👋! My name is Anjali and I'm a Developer, from India</h2>
+<h2 align="left"> I'm Anjali and I'm a Developer, from India</h2>
 
 ###
 
